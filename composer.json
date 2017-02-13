@@ -24,7 +24,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/CASES-LU//zm-core"
+            "url": "https://github.com/CASES-LU/zm-core"
         },
         {
             "type": "vcs",
